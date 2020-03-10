@@ -1,0 +1,19 @@
+{
+  "name": "my_social",
+  "version": "1.0.0",
+  "description": "protoype for a sociale media site made with Angular-NodeJS-MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aghilesDev/My_Social.git"
+  },
+  "author": "Aghiles Goumeziane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aghilesDev/My_Social/issues"
+  },
+  "homepage": "https://github.com/aghilesDev/My_Social#readme"
+}
