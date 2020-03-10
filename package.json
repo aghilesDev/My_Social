@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aghilesDev/My_Social/issues"
   },
-  "homepage": "https://github.com/aghilesDev/My_Social#readme"
+  "homepage": "https://github.com/aghilesDev/My_Social#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "global": "^4.4.0"
+  }
 }
